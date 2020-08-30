@@ -16,11 +16,11 @@ The model accuracy achieved is approximately 97% on the test set.
 
 Credits & Links:
 
-https://github.com/prajnasb/observations/tree/master/experiements/data
+Dataset: https://github.com/prajnasb/observations/tree/master/experiements/data
 
-https://arxiv.org/abs/1801.04381
+MobileNetV2 Architecture: https://arxiv.org/abs/1801.04381
 
-https://www.pyimagesearch.com/
+PyImageSearch: https://www.pyimagesearch.com/
 
 Motivated by the works of,
 
